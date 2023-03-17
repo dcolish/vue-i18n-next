@@ -303,7 +303,7 @@ By setting up this plugin, the plugin will internally set up a Vue I18n module t
 
 About details, see `@intlify/unplugin-vue-i18n` [docs](https://github.com/intlify/bundle-tools/tree/main/packages/unplugin-vue-i18n#runtimeonly)
 
-Also, you can see the changing in the bandling of locale resources.
+Also, you can see the changing in the bundling of locale resources.
 
 Code for locale resources, depending on whether or not the `@intlify/unplugin-vue-i18n` plugin to `vite.plugins` is set. Below:
 
